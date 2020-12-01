@@ -1,0 +1,14 @@
+{
+  "name": "ember-engines-and-embroider-build-issue",
+  "version": "1.0.0",
+  "description": "Reproduces a build issue when using ember engines with embroider.",
+  "author": "Chris Eppstein <chris@eppsteins.net>",
+  "license": "MIT",
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ],
+  "devDependencies": {
+    "ember-engines": "^0.8.8"
+  }
+}
